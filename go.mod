@@ -1,4 +1,4 @@
 
-module example.com/CloudRun
+module example.com/hello
 
 go 1.12

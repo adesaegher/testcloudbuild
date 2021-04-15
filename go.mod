@@ -1,5 +1,4 @@
-module example.com/hello
 
-go 1.14
+module CloudRun
 
-require github.com/GoogleCloudPlatform/functions-framework-go v1.0.1
+go 1.12
